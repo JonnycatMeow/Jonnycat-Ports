@@ -10,6 +10,14 @@ You can download your favorite Friday Night Funkin mods here
  Tools  
  
 - [Haxe](https://haxe.org/download/) -  The Coding language That Made FNF 
-- [Montrix](https://motrix.app) -  The File Uploader 
+- [Montrix](https://motrix.app) -  The Download manager
 - [HxShaders](https://github.com/ItsyourboyJonnycat/HxShaders) -  Fixing Da Haxe Shaders
 - [LetsUpload](https://letsupload.cc) -  File uploader
+
+# Issues 
+ 
+ 1. Downloads to slow & ads keep poping up 
+ I recommend using a download manager like Montrix or Free download manager. 
+ 
+ 2. Video not Starting  
+ Please wait till it Starts loading
