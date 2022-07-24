@@ -2,8 +2,7 @@
 You can download your favorite Friday Night Funkin mods here 
  
  Credits 
- - [Applecore psych engine] (https://gamebanana.com/mods/344049) - submited by Lego0_77
- 
+ - [Applecore psych engine](https://gamebanana.com/mods/344049) -  submited by Lego0_77
  --------------------------------------------------------------------------------------
  
  
