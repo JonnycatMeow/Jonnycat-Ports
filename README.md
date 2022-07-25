@@ -20,3 +20,6 @@ You can download your favorite Friday Night Funkin mods here
  
  2. Video not Starting  
  Please wait till it Starts loading
+ 
+ # Links 
+ - [Discord](https://discord.gg/qchFYzZJKu) -  Join The discord for more help!!!
