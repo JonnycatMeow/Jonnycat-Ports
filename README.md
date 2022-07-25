@@ -3,7 +3,8 @@ You can download your favorite Friday Night Funkin mods here
  
 # Credits 
 - [Applecore psych engine](https://gamebanana.com/mods/344049) -  submited by Lego0_77 
-- [DUSTTALE MOD REMASTERED (2.0)](https://gamebanana.com/mods/287084) -  submited by WassabiSoja
+- [DUSTTALE MOD REMASTERED (2.0)](https://gamebanana.com/mods/287084) -  submited by WassabiSoja 
+- [Doki Doki Takeover! - BAD ENDING](https://gamebanana.com/mods/386603) -  submited by Buster
  
 # Tools  
  
