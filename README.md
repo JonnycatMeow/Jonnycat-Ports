@@ -23,3 +23,4 @@ You can download your favorite Friday Night Funkin mods here
  
  # Links 
  - [Discord](https://discord.gg/qchFYzZJKu) -  Join The discord for more help!!!
+ - [Old Website](https://mr-funkinguy.github.io/Play-And-Game-Archive/index.html) - The Old Version of the website
