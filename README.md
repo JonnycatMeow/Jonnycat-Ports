@@ -2,8 +2,8 @@
 You can download your favorite Friday Night Funkin mods here 
   
 # Note  
-We build with source code and we use psych engines mods. If you have a Android,Linux or any platform that is supported please let us know. 
-We will be happy to add That on There!!!
+I build with source code and I use Psych Engine mods. If you have a Android,Linux or any platform that is supported please let me know. 
+I will be happy to add That on There!!! I will also adding Ports Weekly cause i need breaks lol
 
 # Credits 
 - [Applecore psych engine](https://gamebanana.com/mods/344049) -  submited by Lego0_77 
