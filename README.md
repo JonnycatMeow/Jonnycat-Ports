@@ -1,6 +1,10 @@
 # Jonnycat-Ports
 You can download your favorite Friday Night Funkin mods here 
- 
+  
+# Note  
+We build with source code and we use psych engines mods. If you have a Android,Linux or any platform that is supported please let us know. 
+We will be happy to add That on There!!!
+
 # Credits 
 - [Applecore psych engine](https://gamebanana.com/mods/344049) -  submited by Lego0_77 
 - [DUSTTALE MOD REMASTERED (2.0)](https://gamebanana.com/mods/287084) -  submited by WassabiSoja 
