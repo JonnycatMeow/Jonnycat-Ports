@@ -32,4 +32,3 @@ I will be happy to add That on There!!! I will also adding Ports Weekly cause i 
   
   # Devs 
   - [Jonnycat](https://gamejolt.com/@TheSourceCodeMaster) -  Da owner  
-  - [Jigsaw](https://github.com/MAJigsaw77) -  Android Porter
