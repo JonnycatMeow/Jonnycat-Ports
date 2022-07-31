@@ -6,10 +6,10 @@ I build with source code and I use Psych Engine mods. If you have a Android,Linu
 I will be happy to add That on There!!! I will also adding Ports Weekly cause i need breaks lol
 
 # Credits 
-- [Applecore psych engine](https://gamebanana.com/mods/344049) -  submited by Lego0_77 
 - [DUSTTALE MOD REMASTERED (2.0)](https://gamebanana.com/mods/287084) -  submited by WassabiSoja 
 - [Doki Doki Takeover! - BAD ENDING](https://gamebanana.com/mods/386603) -  submited by DusterBuster 
-- [Friday Night Funkin': Mario's Madness](https://gamebanana.com/mods/359554) -  submited by Dewott2501
+- [Friday Night Funkin': Mario's Madness](https://gamebanana.com/mods/359554) -  submited by Dewott2501 
+- [The X Event - FULL WEEK OUT (Vs X!Gaster)](https://gamebanana.com/mods/44385) -  submited by NyxTheShield
  
 # Tools  
  
