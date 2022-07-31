@@ -29,3 +29,7 @@ I will be happy to add That on There!!! I will also adding Ports Weekly cause i 
  
  # Links 
  - [Discord](https://discord.gg/qchFYzZJKu) -  Join The discord for more help!!!
+  
+  # Devs 
+  - [Jonnycat](https://gamejolt.com/@TheSourceCodeMaster) -  Da owner  
+  - [Jigsaw](https://github.com/MAJigsaw77) -  Android Porter
