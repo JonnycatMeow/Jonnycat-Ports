@@ -25,7 +25,7 @@ I will be happy to add That on There!!! I will also adding Ports Weekly cause i 
  
  1. Downloads to slow & ads keep poping up 
  I recommend using a download manager like Montrix or Free download manager. 
- 
+  
  2. Video not Starting  
  Please wait till it Starts loading
  
@@ -33,4 +33,5 @@ I will be happy to add That on There!!! I will also adding Ports Weekly cause i 
  - [Discord](https://discord.gg/qchFYzZJKu) -  Join The discord for more help!!!
   
   # Devs 
-  - [Jonnycat](https://gamejolt.com/@TheSourceCodeMaster) -  Da owner  
+  - [Jonnycat](https://gamejolt.com/@TheSourceCodeMaster) -  Da owner   
+  - [Blockboi](https://github.com/Mr-funkinguy) -  Artist / coder 
