@@ -1,12 +1,21 @@
+//Thank you Jeff Starr for making this. Here is the website for the code https://perishablepress.com/3-ways-preload-images-css-javascript-ajax/#:~:text=To%20do%20this%2C%20we%20simply,001.gif"%3B%20img2.
 function preloader() {
 	if (document.images) {
-		var img1 = new Image();
-		var img2 = new Image();
-		var img3 = new Image();
+		var background = new Image();
+		var Linuxicons = new Image();
+		var Thumbnails = new Image();
 
-		img1.src = "http://domain.tld/path/to/image-001.gif";
-		img2.src = "http://domain.tld/path/to/image-002.gif";
-		img3.src = "http://domain.tld/path/to/image-003.gif";
+		background.src = "Assets/background/lol.png";
+		Linuxicons.src = "Assets/Icons/Linux Mint.png";
+		Linuxicons.src = "Assets/Icons/Linux Ubuntu.png"; 
+
+        Thumbnails.src = "Assets/Thumbnails/Doki Doki Takeover Bad Ending.png"; 
+        Thumbnails.src = "Assets/Thumbnails/Mario Madness.gif"; 
+        Thumbnails.src = "Assets/Thumbnails/Popcap Collection.png"; 
+        Thumbnails.src = "Assets/Thumbnails/Vs Dusttale Remastered.png"; 
+        Thumbnails.src = "Assets/Thumbnails/X EVENT.gif"; 
+        Thumbnails.src = "Assets/Thumbnails/YLYL Funkin - VS Jimmy Here.png";
+		
 	}
 }
 function addLoadEvent(func) {
@@ -22,4 +31,4 @@ function addLoadEvent(func) {
 		}
 	}
 }
-addLoadEvent(preloader);
+addLoadEvent(preloader);  
