@@ -26,6 +26,7 @@ I will be happy to add That on There!!! I will also adding Ports Weekly cause i 
  
  1. Downloads to slow & ads keep poping up 
  I recommend using a download manager like Montrix or Free download manager. 
+ For ads appearing please use [AdBlocker Ultimate](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=en)
   
  2. Video is not starting 
  Please wait till it Starts loading
