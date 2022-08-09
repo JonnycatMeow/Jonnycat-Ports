@@ -33,6 +33,10 @@ I will be happy to add That on There!!! I will also adding Ports Weekly cause i 
  # Links 
  - [Discord](https://discord.gg/qchFYzZJKu) -  Join The discord for more help!!!
   
-  # Devs 
-  - [Jonnycat](https://gamejolt.com/@TheSourceCodeMaster) -  Da owner   
-  - [Blockboi](https://github.com/Mr-funkinguy) -  Artist / coder 
+ # Devs 
+ - [Jonnycat](https://gamejolt.com/@TheSourceCodeMaster) -  Da owner   
+ - [Blockboi](https://github.com/Mr-funkinguy) -  Artist / coder   
+
+ # Supported Platforms
+ - Mac 
+ - Linux
