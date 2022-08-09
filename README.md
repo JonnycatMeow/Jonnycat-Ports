@@ -2,7 +2,7 @@
 You can download your favorite Friday Night Funkin mods here 
   
 # Note  
-I build with source code and I use Psych Engine mods. If you have a Android,Linux or any platform that is supported please let me know. 
+I build only with source code and I use Psych Engine mods. If you have a Android,Linux or any platform that is supported please let me know. 
 I will be happy to add That on There!!! I will also adding Ports Weekly cause i need breaks lol
   
 # Website 
@@ -27,7 +27,7 @@ I will be happy to add That on There!!! I will also adding Ports Weekly cause i 
  1. Downloads to slow & ads keep poping up 
  I recommend using a download manager like Montrix or Free download manager. 
   
- 2. Video not Starting  
+ 2. Video is not starting 
  Please wait till it Starts loading
  
  # Links 
