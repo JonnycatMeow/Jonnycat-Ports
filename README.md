@@ -3,10 +3,8 @@ You can download your favorite Friday Night Funkin mods here
   
 # Note  
 I build only with source code and I use Psych Engine mods. If you have a Android,Linux or any platform that is supported please let me know. 
-I will be happy to add That on There!!! I will also adding Ports Weekly cause i need breaks lol
-  
-# Website 
-- [The website](https://itsyourboyjonnycat.github.io/FNF-Ports/) 
+I will be happy to add That on There!!! Ports will be added friday,saturday and sunday for school reasons.
+
 # Credits 
 - [DUSTTALE MOD REMASTERED (2.0)](https://gamebanana.com/mods/287084) -  submited by WassabiSoja 
 - [Doki Doki Takeover! - BAD ENDING](https://gamebanana.com/mods/386603) -  submited by DusterBuster 
