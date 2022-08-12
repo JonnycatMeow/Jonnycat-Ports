@@ -37,5 +37,7 @@ I will be happy to add That on There!!! Ports will be added friday,saturday and 
  - [Blockboi](https://github.com/Mr-funkinguy) -  Artist / coder   
 
  # Supported Platforms
- - Mac 
- - Linux
+ - Mac (64bit)
+ - Mint Linux (64bit)
+ - ubuntu linux (64bit)
+ - Arch linux (64bit)
