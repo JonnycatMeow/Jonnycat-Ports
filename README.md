@@ -10,7 +10,12 @@ I will be happy to add That on There!!! Ports will be added friday,saturday and 
 - [Doki Doki Takeover! - BAD ENDING](https://gamebanana.com/mods/386603) -  submited by DusterBuster 
 - [Friday Night Funkin': Mario's Madness](https://gamebanana.com/mods/359554) -  submited by Dewott2501 
 - [The X Event - FULL WEEK OUT (Vs X!Gaster)](https://gamebanana.com/mods/44385) -  submited by NyxTheShield
- 
+- [Popcap Collection](https://gamebanana.com/mods/393540) -  submited by ActuallyMaddix
+- [YLYL Funkin - VS Jimmy Here (V2 Update)](https://gamejolt.com/games/ylylfunkin/737235) -  submited by ActuallyMaddix
+- [Indie Cross](https://gamejolt.com/games/indiecross/643540) -  submited by BrightFyre
+- [FNF Undertale (RUINS UPDATE OUT NOW!)](https://gamebanana.com/mods/342415) -  submited by BoxOfRocksBro 
+- [Friday Night Funkin' - Psych Engine](https://gamebanana.com/mods/309789) -  submited by Shadow Mario
+
 # Tools  
  
 - [Haxe](https://haxe.org/download/) -  The Coding language That Made FNF 
