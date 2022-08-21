@@ -39,10 +39,9 @@ I will be happy to add That on There!!! Ports will be added friday,saturday and 
   
  # Devs 
  - [Jonnycat](https://gamejolt.com/@TheSourceCodeMaster) -  Da owner   
- - [Blockboi](https://github.com/Mr-funkinguy) -  Artist / coder   
+ - [Blockboi](https://github.com/Mr-funkinguy) -  Artist / coder    
+ - [Trist](https://www.youtube.com/channel/UCqZGeWSIgpFpmglJpOYAOwQ) - Makes the gameplay videos!!! 
 
  # Supported Platforms
  - Mac (64bit)
- - Mint Linux (64bit)
- - ubuntu linux (64bit)
- - Arch linux (64bit)
+ - Linux (64 bit)
