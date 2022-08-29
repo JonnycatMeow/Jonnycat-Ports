@@ -1,5 +1,5 @@
-# FNF-Ports
-You can download your favorite Friday Night Funkin mods here 
+# Friday Night Funkin Mac
+You can download your favorite Friday night funkin Mods
   
 # Note  
 I build only with source code and I use Psych Engine mods. If you have a Android,Linux or any platform that is supported please let me know. 
@@ -41,7 +41,3 @@ I will be happy to add That on There!!! Ports will be added friday,saturday and 
  - [Jonnycat](https://gamejolt.com/@TheSourceCodeMaster) -  Da owner   
  - [Blockboi](https://github.com/Mr-funkinguy) -  Artist / coder    
  - [Trist](https://www.youtube.com/channel/UCqZGeWSIgpFpmglJpOYAOwQ) - Makes the gameplay videos!!! 
-
- # Supported Platforms
- - Mac (64bit)
- - Linux (64 bit)
