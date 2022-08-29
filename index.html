@@ -1,45 +1,99 @@
 <!DOCTYPE html>
 <html>
-<head> 
-<title>FNF Ports</title>
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
-<link rel="shortcut icon" type="png" href="./favicon.png">
-
-<a style="border-radius: 4px;" href="./Macos Selection.html">Mac</a>
-
-<a style="border-radius: 4px;" href="./Linux selection.html">Linux</a>
-  
-<a style="border-radius: 4px;" href="https://discord.gg/qchFYzZJKu">Join the Discord</a>  
- 
-<a style="border-radius: 4px;" href="https://docs.google.com/forms/d/e/1FAIpQLSfjVcPnbCUUg5BgFEyhr19K5Vf64DqP48oZTfQemEEGU68k9Q/viewform">Port request</a>
-  
-<a style="border-radius: 4px;" href="./Gameplay Videos.html">Gameplay videos</a>
-  
-<h2 style="color:white">FNF Ports</h2>
-<p style="color:#FFFFFF">Welcome to FNF Ports Please select the Platform That You are on and download the mod</p>
-<head> 
-<!--Css code!!!-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 body {
-  background-image: url('Assets/background/lol.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
 }
-</style>
 
-<style>
-a:link, a:visited {
-  background-color: #4449;
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
   color: white;
-  padding: 14px 25px;
   text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
-  display: inline-block;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
 }
 </style>
-
 </head>
+<body>
+
+<div class="navbar">
+  <a href="./index.html">Home</a> 
+  <a href="https://discord.gg/qchFYzZJKu">Discord</a>
+  <div class="dropdown">
+    <button class="dropbtn">Categories
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Horror</a>
+      <a href="#">Engines</a>
+      <a href="./Adventure.html">Adventure</a>
+    </div>
+  </div> 
+</div>
+<!--Css code!!!-->
+<style>
+  body {
+    background-image: url('Assets/background/lol.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+  </style> 
+
 </body>
 </html>
