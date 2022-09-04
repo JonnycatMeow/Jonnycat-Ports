@@ -4,13 +4,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 .navbar {
   overflow: hidden;
   background-color: #333;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .navbar a {
@@ -28,6 +25,7 @@ body {
 }
 
 .dropdown .dropbtn {
+  cursor: pointer;
   font-size: 16px;  
   border: none;
   outline: none;
@@ -38,7 +36,7 @@ body {
   margin: 0;
 }
 
-.navbar a:hover, .dropdown:hover .dropbtn {
+.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
   background-color: red;
 }
 
@@ -64,7 +62,7 @@ body {
   background-color: #ddd;
 }
 
-.dropdown:hover .dropdown-content {
+.show {
   display: block;
 }
 </style>
@@ -72,26 +70,46 @@ body {
 <body>
 
 <div class="navbar">
-  <a href="./index.html">Home</a> 
-  <a href="https://discord.gg/qchFYzZJKu">Discord</a>
-  <div class="dropdown">
-    <button class="dropbtn">Platforms
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="./Macos selection.html">Mac</a>
-    </div>
-  </div> 
+  <a href="./index.html">Back Home</a>
 </div>
-<!--Css code!!!-->
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.getElementById("myDropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+} 
+</script> 
+
+<title>FNF Ports</title>
+<link rel="shortcut icon" type="png" href="./favicon.png">
+ 
+<!-- The fnf junk --> 
+ <a href="./mods(Mac).html">
+  <img src="Assets/selection/Mac Mods(mac).png" width="300" height="300">
+</a>  
+<a href="./Engines(Mac).html">
+  <img src="Assets/selection/FNF Engines  (Mac).png" width="300" height="300">
+</a>    
+<!-- The background-->
 <style>
   body {
     background-image: url('Assets/background/lol.png');
     background-repeat: no-repeat;
-    background-attachment: fixed;  
+    background-attachment: fixed;
     background-size: cover;
   }
   </style> 
-
+  
 </body>
 </html>
