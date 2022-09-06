@@ -21,7 +21,7 @@ I will be happy to add That on There!!! Ports will be added friday,saturday and 
 - [Haxe](https://haxe.org/download/) -  The Coding language That Made FNF 
 - [Montrix](https://motrix.app) -  The Download manager
 - [HxShaders](https://github.com/ItsyourboyJonnycat/HxShaders) -  Fixing Da Haxe Shaders
-- [Uppy](https://uppy.io) -  File uploader 
+- [Fast upload](https://fastupload.io/en) -  File uploader 
 - [Mp4 Mac Fix](https://github.com/BushTrain460615/MP4-Handler-mac-fix) -  For Source Code Vlc 
 - [extension ffmpeg](https://github.com/MasterEric/extension-ffmpeg) -  For Video Support
 
