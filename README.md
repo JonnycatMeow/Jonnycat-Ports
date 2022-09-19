@@ -11,7 +11,7 @@ I will be happy to add That on There!!! Ports will be added friday,saturday and 
 # Changelog 
  1.removed gameplay video cause you have seen what mod it is  
  2.Redid somethings on the index 
- 3.Android support / android selection
+ 3.Android selection
  
 # Issues 
  1. Downloads to slow & ads keep poping up 
