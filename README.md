@@ -13,11 +13,10 @@ I will be happy to add That on There!!! Ports will be added friday,saturday and 
  2.Redid somethings on the index 
  3.Android selection
  
-# Issues 
- 1. Downloads to slow & ads keep poping up 
- I recommend using a download manager like Montrix or Free download manager. 
- For ads appearing please use [AdBlocker Ultimate](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=en)
-  
+# Ads 
+i recommend some of these ads blockers
+[AdBlocker Ultimate](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=en) 
+[ghostery](https://chrome.google.com/webstore/detail/ghostery-–-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
  2. Video is not starting 
  Please wait till it Starts loading
  
