@@ -15,10 +15,12 @@ I will be happy to add That on There!!! Ports will be added friday,saturday and 
  
 # Ads 
 i recommend some of these ads blockers
+
+
 [AdBlocker Ultimate](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=en) 
+
+
+
 [ghostery](https://chrome.google.com/webstore/detail/ghostery-–-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
- 2. Video is not starting 
- Please wait till it Starts loading
- 
- # Links 
+# Links 
  - [Discord](https://discord.gg/qchFYzZJKu) -  Join The discord for more help!!!
