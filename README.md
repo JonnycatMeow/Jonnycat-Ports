@@ -1,8 +1,11 @@
 # Jonnycat Ports
 You can download your favorite Friday night funkin Mods  
 
-# OFFICAL SITE!!! 
-[Jonnycat Ports](https://jonnycatports.netlify.app) 
+# OFFICAL SITE!!!  
+[Jonnycat Ports](https://jonnycatports.netlify.app)  
+
+# WE NEED DEVELOPERS!!!  
+if you're a coder or a port for linux or ios and android for haxe friay night funkin please contact me or put it in issues  
 
 # Note  
 I build only with source code and I use Psych Engine mods. If you have a Android,Linux or any platform that is supported please let me know. 
@@ -22,5 +25,3 @@ i recommend some of these ads blockers
 
 
 [ghostery](https://chrome.google.com/webstore/detail/ghostery-–-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
-# Links 
- - [Discord](https://discord.gg/qchFYzZJKu) -  Join The discord for more help!!!
