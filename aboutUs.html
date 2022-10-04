@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -26,13 +27,20 @@ html {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
+  border-radius: 15px;
 }
 
 .about-section {
   padding: 50px;
   text-align: center;
-  background-color: #474e5d;
+  background: linear-gradient(to bottom right, #3f3f3f, rgb(28, 28, 28));
   color: white;
+  box-shadow: #3f3f3f;
+}
+
+
+.card:hover {
+  
 }
 
 .container {
@@ -71,6 +79,14 @@ html {
     display: block;
   }
 }
+
+.fa-youtube {
+  background: #3a3a3a;
+  color: rgb(137, 137, 137);
+  width: 75px;
+  height: 65px;
+  border-radius: 15px;
+}
 </style>
 </head>
 <body>
@@ -80,23 +96,25 @@ html {
   <p>hello this is the dev team</p>
 </div>
 
-<h2 style="text-align:center">Our Team</h2>
+<h2 style="color: white; text-align:center">Our Team</h2>
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="Assets/devs/Jonnycat.jpeg" alt="Jonnycat" style="width:100%">
+      <img src="Assets/devs/Jonnycat.jpeg" alt="Jonnycat" style="border-radius: 15px; width:100%">
       <div class="container">
         <h2 style="color:white;">Jonnycat</h2>
         <p style="color:white;" class="title">Mac porter/Founder</p>
         <p style="color:white;">hi i am jonnycat i am the owner of jonnycat ports</p> 
         <p style="color:white;">i love video games and having fun</p>
+        <p style="font: caption; text-align: center; color:white;">Here Are My Socials:</p>
+        <a href="https://www.youtube.com/channel/UCl5FLEH27WMrovjzwVrBcJA" style="font-size: 60px ; text-align: center; width: 65px; " class="fa fa-youtube"></a>
       </div>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <img src="Assets/devs/jigsaw.jpeg" style="width:100%">
+      <img src="Assets/devs/jigsaw.jpeg" style="border-radius: 15px; width:100%">
       <div class="container">
         <h2 style="color:rgb(255, 255, 255);">MAJigsaw77</h2>
         <p style="color:white;" class="title">Android porter</p> 
@@ -108,7 +126,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="Assets/devs/cursed_sherryl.jpeg" style="width:100%">
+      <img src="Assets/devs/cursed_sherryl.jpeg" style="border-radius: 15px; width:100%">
       <div class="container">
         <h2 style="color:white;">Sherrly</h2>
         <p style="color:white;"class="title">Android porter</p>
@@ -123,10 +141,7 @@ html {
 <!-- The background-->
 <style>
     body {
-      background-image: url('Assets/background/lol.png');
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: cover;
+      background: linear-gradient(to bottom right, #9a9a9a, rgb(39, 39, 39));
     }
     </style>  
 

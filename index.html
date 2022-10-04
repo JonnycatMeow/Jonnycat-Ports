@@ -2,22 +2,30 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" href="https://github.com/ItsyourboyJonnycat/Jonnycat-Ports/blob/main/favicon.png?raw=true">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <title>Jonnycat Ports</title>
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
+  animation: fadeIn 2s;
+  -webkit-animation: fadeIn 2s;
+  -moz-animation: fadeIn 2s;
+  -o-animation: fadeIn 2s;
+  -ms-animation: fadeIn 2s;
 }
 
 .navbar {
   overflow: hidden;
+  margin-right: auto;
+  border-radius: 15px;
+  margin-left: auto;
   background-color: #333;
 }
 
 .navbar a {
+  
   float: left;
   font-size: 16px;
+  transition: 0.5s;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -27,10 +35,12 @@ body {
 .dropdown {
   float: left;
   overflow: hidden;
+  
 }
 
 .dropdown .dropbtn {
   font-size: 16px;  
+
   border: none;
   outline: none;
   color: white;
@@ -42,6 +52,12 @@ body {
 
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: red;
+  animation: fadeIn 0.5s;
+  
+  transform: scale(1.1);
+  border-radius: 20px;
+  transition: 0.5s;
+
 }
 
 .dropdown-content {
@@ -51,6 +67,13 @@ body {
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
+  animation: fadeIn 2s;
+  -webkit-animation: fadeIn 2s;
+  -moz-animation: fadeIn 2s;
+  -o-animation: fadeIn 2s;
+  -ms-animation: fadeIn 2s;
+  transition: 0.5s;
+  border-radius: 15px;
 }
 
 .dropdown-content a {
@@ -59,15 +82,27 @@ body {
   padding: 12px 16px;
   text-decoration: none;
   display: block;
-  text-align: left;
+  text-align: center;
 }
 
 .dropdown-content a:hover {
   background-color: #ddd;
+  animation: fadeIn 2s;
+  -webkit-animation: fadeIn 2s;
+  -moz-animation: fadeIn 2s;
+  -o-animation: fadeIn 2s;
+  -ms-animation: fadeIn 2s;
 }
 
 .dropdown:hover .dropdown-content {
+  transition: 0.5s;
   display: block;
+}
+
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
 </style>
 </head>
