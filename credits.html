@@ -68,15 +68,61 @@
 .show {
   display: block;
 }
+
+.loader-wrapper {
+  width: 100%;
+  height: 1000px;
+  
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+ 
+  z-index: 7000;
+  background-color: #333;
+  top: -1000;
+  justify-content: center;
+  animation: myfirst 0.9s 1;
+  align-items: center;
+  text-align: top;
+}
+
+@keyframes myfirst {
+  0%  {  top: 0px;}
+  100%   {  top: -1000px;}
+}
+
+@keyframes myfirstt {
+  0%   {  top: -1000px;}
+  100%  {  top: 0px;}
+ 
+}
+
 </style>
 </head>
 <body>
-
+  <div class="loader-wrapper" id="load"></div>
 <div class="navbar">
-  <a href="./index.html">Back Home</a>
+  <a onclick="back()">Back Home</a>
 </div>
 
 <script>
+
+function back() {
+  document.getElementById('load').style.display = 'none';
+
+    document.getElementById('load').style.display = 'block';
+    document.getElementById('load').style.animation = 'myfirstt 0.5s 1'
+
+  location.href = './index.html';
+
+}
+
+setTimeout(() => {
+  
+  document.getElementById('load').style.display = 'none';
+}, 900);
+
 /* When the user clicks on the button, 
 toggle between hiding and showing the dropdown content */
 function myFunction() {
