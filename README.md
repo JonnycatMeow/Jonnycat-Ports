@@ -11,4 +11,4 @@ if you're a coder or a port for linux or ios and android for haxe friay night fu
 I build only with source code.
 
 # schedual 
-Ports will be made on friday and saturdays
+I am focusing on school so i might not be able to respond on the ports you want me to do!!!
