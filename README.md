@@ -10,5 +10,5 @@ if you're a coder or a port for linux or ios and android for haxe friay night fu
 # Note  
 I build only with source code.
 
-# schedual 
-I am focusing on school so i might not be able to respond on the ports you want me to do!!!
+# Schedual 
+I do 3 ports every day!!!!
